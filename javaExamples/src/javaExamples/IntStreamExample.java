@@ -76,6 +76,7 @@ public class IntStreamExample {
         
         System.out.println("The players are: " + players);
         System.out.println(countEmptyCells(players));
+        
 	}
 
 }
